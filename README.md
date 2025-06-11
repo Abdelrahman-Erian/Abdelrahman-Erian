@@ -1,6 +1,6 @@
 <h1>About me</h1>
 <ul>
-  <li>👋 Hi, I’m @Abdelrahman-Erian</li>
+  <li>👋 Hi, I’m Abdelrahman Mohamed</li>
   <li>🏫 I am a Student in <a href="https://www.svu.edu.eg/faculties/fci/en/home-page-en/">Faculty of Computers & Informatics</a> at
   <a href="https://www.svu.edu.eg/ar/">South Valley University</a>.</li>
   <li>🏆 1x ECPC Finalist.</li>
